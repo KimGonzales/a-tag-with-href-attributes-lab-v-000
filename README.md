@@ -21,4 +21,3 @@ Once you have the HTML document open in your browser, you can make changes to it
 ## Resources
 
 * [W3S — HTML `<a>` Tag](https://www.w3schools.com/tags/tag_a.asp)
-<a href="https://flatironschool.com">Flatiron School</a>
